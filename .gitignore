@@ -1,0 +1,6 @@
+/template/build/
+/template/source/
+
+/template/kernel.img
+/template/kernel.list
+/template/kernel.map
